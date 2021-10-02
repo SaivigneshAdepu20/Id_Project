@@ -1,6 +1,5 @@
-# tp_project
-
-A new Flutter project.
+# Id_Card 
+This the just a basics project of flutter which shows the data and when we click on button the level gets increased.
 
 ## Getting Started
 
