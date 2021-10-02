@@ -1,5 +1,5 @@
 # Id_Card 
-This the just a basics project of flutter which shows the data and when we click on button the level gets increased.
+This is just a basics project of flutter which shows the Photo,Name,Email,etc  and when we click on button the level gets increased.
 
 ## Getting Started
 
